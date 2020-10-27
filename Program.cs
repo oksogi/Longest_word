@@ -35,7 +35,7 @@ namespace Program1
            
             
 
-            Console.WriteLine("Нажмите для выхода");
+            Console.WriteLine("Нажмите для выхода Enter");
             Console.ReadLine();
 
         }
